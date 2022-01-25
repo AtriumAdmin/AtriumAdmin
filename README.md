@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AtriumAdmin
+- 👀 I’m interested in Lua, HMTL, Java, Python and Node!
+- 🌱 I’m currently learning Ruby!
+- 💞️ I’m looking to collaborate on websites!
+- 📫 How to reach me, Join my discord to reach me!
